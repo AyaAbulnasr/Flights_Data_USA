@@ -1,2 +1,2 @@
 # Flights_Data_Exploration
-USA airlines visualization for 2008 year
+USA airlines data exploration and visualization for 2008 year 
